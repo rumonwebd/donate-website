@@ -232,3 +232,64 @@ color: #707070;
 margin-bottom: 50px;
 
 }
+
+
+
+
+.sixth-main{
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.box{
+    
+    border: none;
+    resize: none;
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.subscribe{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    background-color: #FFF4D6;
+    height:200px;
+    margin: 0px 200px;
+}
+
+.subscribe-button {
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 8px 45px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    }
+    input[type="email"]{
+        height: 30px;
+        width:250px;
+        box-sizing:border-box;
+        background-color: #D9D9D9;
+        padding: 0px;
+        border-radius: 5px;
+        color: #040404;
+        
+    }
+    
+    footer{
+        margin-top: 150px;
+        justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #040202;
+    height: 100px;
+    padding-top: 15px;
+    color: #DADADA;
+    }
