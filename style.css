@@ -1,4 +1,50 @@
 body
     {
         font-family: 'Inter', sans-serif;
+     margin: 0; 
     }
+
+.first
+    {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0px -300px 300px 0px rgba(0,0,0,0.9);
+    height: 745px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    }
+
+#title-text{
+    font-size: 70px;
+    margin-left: 310px;
+    margin-right: 310px;
+    margin-bottom: 0;
+}
+#title-body{
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+}  
+.donate-button{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 18px 25px;
+    border-radius: 5px;
+    font-size:20px;
+    color: #ffffff;
+    font-weight: 600;
+}
+//
+
+.second{
+    height: 745px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
